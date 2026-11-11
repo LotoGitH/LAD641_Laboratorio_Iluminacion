@@ -1,0 +1,9 @@
+* text=auto
+*.cs text diff=csharp
+*.unity text merge=unityyamlmerge eol=lf
+*.prefab text merge=unityyamlmerge eol=lf
+*.mat text eol=lf
+*.meta text eol=lf
+*.exr binary
+*.png binary
+LightingData.asset binary
